@@ -1,3 +1,5 @@
+#SWIFT 3
+
 #SwiftyJSON [中文介绍](http://tangplin.github.io/swiftyjson/)
 
 [![Travis CI](https://travis-ci.org/SwiftyJSON/SwiftyJSON.svg?branch=master)](https://travis-ci.org/SwiftyJSON/SwiftyJSON)
